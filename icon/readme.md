@@ -1,7 +1,5 @@
 <h2 align="center">Alist</h2>
 
----
-
 ### 这是什么？
 
 一款支持多种存储的目录文件列表程序，后端基于`go-fiber`，前端使用`react`。
